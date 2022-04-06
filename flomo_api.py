@@ -10,7 +10,7 @@ import re
 '''
 
 def flomo_data():
-    url_home = 'https://flomoapp.com/api/user/76676/stat/?tz=8:0'
+    url_home = 'https://flomoapp.com/api/user/?????/stat/?tz=8:0'  #需要修改为你的5位数id
     url = "https://flomoapp.com/api/memo/?tz=8:0"
     # url = "https://flomoapp.com/api/memo/?tag=zk&tz=8:0"
     headers = {
