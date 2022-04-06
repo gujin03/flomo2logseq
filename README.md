@@ -13,7 +13,10 @@
 - 卡片添加特定的标签 #zk（参照上图）当然也支持多个标签的使用
 
 ## 本程序的使用效果
-[](https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/01.gif)
-https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/20220406064856.png
-https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/20220406070759.png
-https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/f2log.gif
+
+本程序的主要设计思路（后续还得再优化）
+![](https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/20220406070759.png)
+本程序的实现效果1：zk标签的卡片可同步到logseq
+![](https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/20220406064856.png)
+本程序的实现效果2：可从logseq跳转回flomo方便在源头修改卡片
+![](https://lewis-images.oss-cn-shenzhen.aliyuncs.com/img/f2log.gif)
